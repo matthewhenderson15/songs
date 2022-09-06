@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+The purpose of this app is to learn about integrating React with Redux.
+
+The app uses functional components, and state is stored using Redux.
+
+Components
+- App
+- SongList
+- SongDetail
+
+Reducers
+- Selected song
+- Song list
+
+Actions
+- Select a song
