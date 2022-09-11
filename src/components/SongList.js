@@ -21,8 +21,7 @@ class SongList extends Component {
         });
     }
 
-    render() {
-        
+    render() {   
         return <div className="ui divided list">{this.renderList()}</div>;
     }
 }
