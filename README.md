@@ -57,21 +57,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+# Project Overview
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This is an application that was built to learn more about integrating React with Redux. The objective of this app is to render a list of songs, and upon selection of a song, the details of that song are displayed. The list of songs that is used is static and contained within the song reducer of the index.js file of the reducer folder. 
 
-### Deployment
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### React Components
+- App
+- SongList - used to display a formatted list of songs 
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-The purpose of this app is to learn about integrating React with Redux.
-
-The app uses functional components, and state is stored using Redux.
 
 Components
 - App
